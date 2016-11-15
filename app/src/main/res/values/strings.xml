@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel Comics</string>
+    <string name="error">Error Loading Content!</string>
+
+    <string name="filter_menu">Filter</string>
+
+    <string name="price">Price</string>
+
+    <string name="title_comics">Title</string>
+    <string name="author">Author</string>
+    <string name="pageCount">Page Count</string>
+    <string name="description">Description</string>
+
+    <string name="comics_deatil">Comics Detail</string>
+
+    <string name="title_dialog_price">Set Price</string>
+    <string name="no_price">No Price</string>
+    <string name="ok">OK</string>
+</resources>

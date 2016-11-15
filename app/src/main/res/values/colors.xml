@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/redColorPrimary</color>
+    <color name="colorPrimaryDark">@color/redDarkColorPrimary</color>
+    <color name="colorAccent">@color/indigoAccentColor</color>
+
+    <color name="indigoColorPrimary">#3F51B5</color>
+    <color name="indigoColorPrimaryDark">#303F9F</color>
+    <color name="pickColorAccent">#FF4081</color>
+
+    <color name="redColorPrimary">#F44336</color>
+    <color name="redDarkColorPrimary">#D32F2F</color>
+    <color name="indigoAccentColor">#536DFE</color>
+
+    <color name="colorPrimaryRed">#F44336</color>
+
+    <color name="colorPrimaryBlack">#424242</color>
+
+    <color name="white">#fff</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="black_50">#191919</color>
+
+    <color name="grey300">#E0E0E0</color>
+</resources>
