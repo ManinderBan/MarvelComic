@@ -1,11 +1,11 @@
 # MarvelComics
 
-This Application used MVP + Clean Architecture + Dagger 2.
-This application show a list of the first 100 comics from the Marvel API.
-Contains this features:
-1. Display the list of the first 100 comics.
-2. Display the Comics information.
-3. Given a budget, the application show the maximum number of that you can buy without exceeding that budget.
+This Application used MVP + Clean Architecture + Dagger 2.<br />
+This application show a list of the first 100 comics from the Marvel API.<br />
+Contains this features:<br />
+1. Display the list of the first 100 comics.<br />
+2. Display the Comics information.<br />
+3. Given a budget, the application show the maximum number of that you can buy without exceeding that budget.<br />
 
 #Organzation
 
