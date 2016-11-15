@@ -8,7 +8,9 @@ Contains this features:
 3. Given a budget, the application show the maximum number of that you can buy without exceeding that budget.
 
 #Organzation
+
 The project is organized by application features.
+
 - comicsdetail: contain all the class related to Comics detail;
 - comicslist: contain classes the allow to display the list of Comics;
 - data: subpackage for Remote and Local repository
