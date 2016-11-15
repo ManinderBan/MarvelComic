@@ -22,7 +22,6 @@ import butterknife.ButterKnife;
  * This type of approch is used in different type of application. This Application is really a simple example of how we can use use this
  * type of architecture.
  * </p>
- *
  */
 public class MainActivity extends AppCompatActivity {
 
